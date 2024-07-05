@@ -1,1 +1,12 @@
-# TripleTenProjects
+# ## Hey 👋, This is Dezie Udeagha
+[![Gmail Badge](https://img.shields.io/badge/-optic.udi@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:optic.udi@gmail.com)](mailto:optic.udi@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-dezieudeagha-8a54b11b0-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dezieudeagha-8a54b11b0/)](https://www.linkedin.com/in/dezieudeagha-8a54b11b0/) [![Github Badge](https://img.shields.io/badge/-uudeagha-grey?style=flat&logo=github&logoColor=white&link=https://github.com/uudeagha/)](https://www.github.com/uudeagha/) <p align='left'>Aspiring Data Analyst, currently finishing a bootcamo at TripleTen. Proficient in data manipulation tools such as Excel,
+SQL, and Python, with a keen eye for detail and a passion for uncovering insights from complex datasets. Possessing
+excellent analytical and problem-solving skills, coupled with strong communication abilities to convey findings
+effectively. Dedicated to continuous learning and eager to contribute to impactful projects that drive organizational
+success through data-driven decision-making.</p><p align='left'> You can view my resume <a href='https://drive.google.com/file/d/1SBUHXvMbVhNDB0P-BFxriHQgUpDRwNCK/view?usp=sharing ' target=_blank><u>here</u>.</a></p>
+## Some of my Github Stats
+<p align=left> <img src=https://komarev.com/ghpvc/?username=uudeagha alt=uudeagha /> </p>
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=uudeagha&show_icons=true&include_all_commits=true)](https://github.com/uudeagha/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uudeagha&layout=compact)](https://github.com/uudeagha/github-readme-stats)
