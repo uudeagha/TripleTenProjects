@@ -5,6 +5,18 @@ SQL, and Tableau, with a keen eye for detail and a passion for uncovering insigh
 excellent analytical and problem-solving skills, coupled with strong communication abilities to convey findings
 effectively. Dedicated to continuous learning and eager to contribute to impactful projects that drive organizational
 success through data-driven decision-making.</p><p align='left'> You can view my resume <a href='https://drive.google.com/file/d/1SBUHXvMbVhNDB0P-BFxriHQgUpDRwNCK/view?usp=sharing ' target=_blank><u>here</u>.</a></p>
+
+# TripleTen_projects
+Projects I worked on while attending the Data Analysis TripleTen Bootcamp.
+
+
+| Project number | Title | Description |
+| :-----------: | ----------- |----------- |
+| 1 | Airbnb analysis| The project task was to analyze the most popular listings for Airbnbs in New York City. |
+| 2 | Business Analysis| The project task was to analyze the impressions on a business website |
+| 3 | Tableau Project | The project task was to study the shortcomings of a superstore |
+| 4 | Final Project | The project task was to analyze the restaraunt industry in India. |
+
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=uudeagha alt=uudeagha /> </p>
 
