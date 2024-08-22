@@ -12,10 +12,10 @@ Projects I worked on while attending the Data Analysis TripleTen Bootcamp.
 
 | Project number | Title | Description |
 | :-----------: | ----------- |----------- |
-| 1 | Airbnb analysis| The project task was to analyze the most popular listings for Airbnbs in New York City. |
-| 2 | Business Analysis| The project task was to analyze the impressions on a business website |
-| 3 | Tableau Project | The project task was to study the shortcomings of a superstore |
-| 4 | Final Project | The project task was to analyze the restaraunt industry in India. |
+| 1 | [Airbnb analysis](https://docs.google.com/spreadsheets/d/1xoHEpUvTjETwyBzwEz0T8I99WeLOk-gqqYnEG1Ci6Dw/edit?gid=1864153476#gid=1864153476)| The project task was to analyze the most popular listings for Airbnbs in New York City. |
+| 2 | [Business Analysis](https://docs.google.com/spreadsheets/d/1notvzQ3Un8JybRfjdNo5Y7MtvHcDOuF3udOJZqnVTZs/edit?gid=851372596#gid=851372596)| The project task was to analyze the impressions on a business website |
+| 3 | [Tableau Project](https://public.tableau.com/app/profile/dezie.udeagha/viz/TabProjectUUv3/Task1) | The project task was to study the shortcomings of a superstore |
+| 4 | [Final Project](https://public.tableau.com/app/profile/dezie.udeagha/viz/ZomatoRestaurantAnalysis_17236471084180/Dashboard2) | The project task was to analyze the restaraunt industry in India. |
 
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=uudeagha alt=uudeagha /> </p>
