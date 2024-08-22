@@ -4,7 +4,7 @@
 SQL, and Tableau, with a keen eye for detail and a passion for uncovering insights from complex datasets. Possessing
 excellent analytical and problem-solving skills, coupled with strong communication abilities to convey findings
 effectively. Dedicated to continuous learning and eager to contribute to impactful projects that drive organizational
-success through data-driven decision-making.</p><p align='left'> You can view my resume <a href='https://drive.google.com/file/d/1SBUHXvMbVhNDB0P-BFxriHQgUpDRwNCK/view?usp=sharing ' target=_blank><u>here</u>.</a></p>
+success through data-driven decision-making.</p><p align='left'> You can view my resume [here](https://drive.google.com/file/d/15NoKlmdoKI90MlNmGQ3sP_EZSSy2GITQ/view?usp=sharing).
 
 # TripleTen_projects
 Projects I worked on while attending the Data Analysis TripleTen Bootcamp.
